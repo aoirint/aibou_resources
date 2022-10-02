@@ -2,7 +2,7 @@
 
 ## Data source
 
-### aibou_episodes.csv
+### aibou_episode_list.csv
 
 |Season|URL|
 |--:|:--|
