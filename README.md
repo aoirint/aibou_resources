@@ -44,3 +44,4 @@
 | 19|https://douga.tv-asahi.co.jp/program/16839-24668|
 | 20|https://douga.tv-asahi.co.jp/program/16839-29370|
 | 21|https://douga.tv-asahi.co.jp/program/16839-35642|
+| 22|https://douga.tv-asahi.co.jp/program/16839-43305|
